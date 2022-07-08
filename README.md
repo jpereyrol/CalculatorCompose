@@ -1,1 +1,3 @@
 # CalculatorCompose
+
+![](calculator.gif)
