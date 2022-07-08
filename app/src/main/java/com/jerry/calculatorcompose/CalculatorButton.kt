@@ -22,7 +22,7 @@ fun CalculatorButton(
         contentAlignment = Alignment.Center,
         modifier = Modifier
             .clip(CircleShape)
-            .clickable { onClick }
+            .clickable { onClick() }
             .then(modifier)
     ) {
         Text(
